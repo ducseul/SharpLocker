@@ -1,6 +1,6 @@
 # Disclaim
-This is my advance version modify on https://github.com/Pickfordmatt/SharpLocker
-I personally adding automatic mail to destination gmail
+This is my advance version modify on https://github.com/Pickfordmatt/SharpLocker <br/>
+I personally adding automatic mail to destination gmail whenever user input password in
 
 # SharpLocker
 
